@@ -50,7 +50,7 @@ li:before {
   content: "★";
   color: var(--theme-color);
 }
-.noster:before{
+.noster li:before{
         content:none;
 }
 
