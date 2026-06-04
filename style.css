@@ -50,6 +50,9 @@ li:before {
   content: "★";
   color: var(--theme-color);
 }
+.noster:before{
+        content:none;
+}
 
 /* --------------------
           表
